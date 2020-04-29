@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+ <title>HTML slider</title>
+</head> 
+
+<body>
+<label for="myFruit">What is your favorite fruit? (With fallback)</label>
+<input type="text" id="myFruit" name="fruit" list="fruitList">
+    
+<datalist id="fruitList">
+  <label for="suggestion">or pick a fruit</label>
+  <select id="suggestion" name="altFruit">
+    <option>Apple</option>
+    <option>Banana</option>
+    <option>Blackberry</option>
+    <option>Blueberry</option>
+    <option>Lemon</option>
+    <option>Lychee</option>
+    <option>Peach</option>
+    <option>cherry</option>
+  </select>
+</datalist>
+
+<select id="simple" name="simple">
+  <option value="banana">Big, beautiful yellow banana</option>
+  <option value="cherry">Succulent, juicy cherry</option>
+  <option value="lemon">Sharp, powerful lemon</option>
+</select>
+<br> </br>
+ <label for="suggestion">Progress bar</label>
+<progress max="100" value="75">75/100</progress>
+
+</body>
+
+</html>
