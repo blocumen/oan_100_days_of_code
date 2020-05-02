@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+      h1 {
+        margin-top: 0;
+    }
+    
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    
+    form {
+        margin: 0 auto;
+        width: 400px;
+        padding: 1em;
+        border: 1px solid #CCC;
+        border-radius: 1em;
+    }
+    
+    div+div {
+        margin-top: 1em;
+    }
+    
+    label span {
+        display: inline-block;
+        width: 120px;
+        text-align: right;
+    }
+    
+    input, textarea {
+        font: 1em sans-serif;
+        width: 250px;
+        box-sizing: border-box;
+        border: 1px solid #999;
+    }
+    
+    input[type=checkbox], input[type=radio] {
+        width: auto;
+        border: none;
+    }
+    
+    input:focus, textarea:focus {
+        border-color: #000;
+    }
+    
+    textarea {
+        vertical-align: top;
+        height: 5em;
+        resize: vertical;
+    }
+    
+    fieldset {
+        width: 250px;
+        box-sizing: border-box;
+        margin-left: 136px;
+        border: 1px solid #999;
+    }
+    
+    button {
+        margin: 20px 0 0 124px;
+    }
+    
+    label {
+      position: relative;
+    }
+    
+    label em {
+      position: absolute;
+      right: 5px;
+      top: 20px;
+    }
+    </style>
+
+</head>
+<body>
+  <form>
+ <label for="myFruit">What is your favorite fruit? (With fallback)</label>
+  <input type="text" id="myFruit" name="fruit" list="fruitList">
+      <datalist id="fruitList">
+          <label for="suggestion">or pick a fruit</label>
+          <select id="suggestion" name="altFruit">
+            <option>Apple</option>
+            <option>Banana</option>
+            <option>Blackberry</option>
+            <option>Blueberry</option>
+            <option>Lemon</option>
+            <option>Lychee</option>
+            <option>Peach</option>
+            <option>Pear</option>
+          </select>
+        </datalist>
+        <label for="price">Choose a maximum house price: </label>
+<input type="range" name="price" id="price" min="50000" max="500000" step="100" value="250000">
+<output class="price-output" for="price"></output>
+    <h1>Payment form</h1>
+    <p>Required fields are followed by <strong><abbr title="required">*</abbr></strong>.</p>
+    <section>
+      <h2>Contact information</h2>
+      <fieldset>
+        <legend>Title</legend>
+        <ul>
+            <li>
+              <label for="title_1">
+                <input type="radio" id="title_1" name="title" value="K" >
+                King
+              </label>
+            </li>
+            <li>
+              <label for="title_2">
+                <input type="radio" id="title_2" name="title" value="Q">
+                Queen
+              </label>
+            </li>
+            <li> 
+              <label for="title_3"> 
+                <input type="radio" id="title_3" name="title" value="J">
+                Joker 
+              </label> 
+            </li>
+        </ul>
+      </fieldset>
+      <p>
+        <label for="name">
+          <span>Name: </span>
+          <strong><abbr title="required">*</abbr></strong>
+        </label>
+        <input type="text" id="name" name="username">
+      </p>
+      <p>
+        <label for="mail">
+          <span>E-mail: </span>
+          <strong><abbr title="required">*</abbr></strong>
+        </label>
+        <input type="email" id="mail" name="usermail">
+      </p>
+      <p>
+        <label for="pwd">
+          <span>Password: </span>
+          <strong><abbr title="required">*</abbr></strong>
+        </label>
+        <input type="password" id="pwd" name="password">
+      </p>
+  </section>
+  <section>
+    <h2>Payment information</h2>
+    <p>
+      <label for="card">
+        <span>Card type:</span>
+      </label>
+      <select id="card" name="usercard">
+        <option value="visa">Visa</option>
+        <option value="mc">Mastercard</option>
+        <option value="amex">American Express</option>
+      </select>
+    </p>
+    <p>
+      <label for="number">
+        <span>Card number:</span>
+        <strong><abbr title="required">*</abbr></strong>
+      </label>
+      <input type="tel" id="number" name="cardnumber">
+    </p>
+    <p>
+      <label for="date">
+        <span>Expiration date:</span>
+        <strong><abbr title="required">*</abbr></strong>
+        <em>formatted as mm/dd/yyyy</em>
+      </label>
+      <input type="date" id="date" name="expiration">
+    </p>
+  </section>
+  <fieldset>
+    <legend>What is your favorite meal?</legend>
+    <ul>
+      <li>
+        <label for="soup">Soup</label>
+        <input type="radio" id="soup" name="meal" value="soup" checked>
+      </li>
+      <li>
+        <label for="curry">Curry</label>
+        <input type="radio" id="curry" name="meal" value="curry">
+      </li>
+      <li>
+        <label for="pizza">Pizza</label>
+        <input type="radio" id="pizza" name="meal" value="pizza">
+      </li>
+    </ul>
+  </fieldset>
+  <input type="color" name="color" id="color">
+  <progress max="100" value="75">75/100</progress>
+  <meter min="0" max="100" value="75" low="33" high="66" optimum="50">75</meter>
+  
+  <p> <button type="submit">Validate the payment</button> </p>
+  </form>  
+   </body>
+   </html>
