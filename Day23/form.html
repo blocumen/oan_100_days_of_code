@@ -1,0 +1,42 @@
+<!Doctype html>
+<html>
+<style>
+body{
+ width : 500px;
+ margin: 0 auto;
+ border : 1px solid black;
+
+}
+form
+{
+   padding:20px;
+}
+input{
+  padding:5px;
+}
+</style>
+<body>
+<form method="post">
+<label>Email Id</label>
+<input name="email" id="email" type="text"> <br>
+<label>Password</label>
+<input name="pass" id="pass" type="password"> <br>
+<input type="submit" value="Submit">
+<p></p>
+</form>
+</body>
+<script>
+const form = document.querySelector('form');
+const email = document.getElementById('email');
+const pass = document.getElementById('pass');
+const para = document.querySelector('p');
+
+form.onsubmit = function(e) {
+  if (email.value === '' || pass.value === '') {
+    e.preventDefault();
+    para.textContent = 'Enter Email and Password';
+  }
+}
+</script>
+
+</html>

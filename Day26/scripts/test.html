@@ -1,0 +1,18 @@
+<!Doctype html>
+<html>
+<body>
+<h1>Constructors</h1>
+</body>
+<script>
+function Apple(color,num)
+{
+   this.color = color;
+   this.num = num;
+  // this.throw = "test this";
+   this.eat = function(){return "eat thuis apple";};
+}
+Apple.prototype = {throw : function(){return "throw this apple";}};
+var a1 = new Apple('red',5);
+var a2 = new Apple('green',10);
+</script>
+</html> 

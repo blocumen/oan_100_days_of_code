@@ -1,0 +1,36 @@
+<html>
+<body>
+<div>
+<input type="text" name="usernum">
+<p></p>
+<button>Cube Root</button>
+
+</div>
+</body>
+<script>
+let num = document.querySelector("input").value
+
+let bt= document.querySelector("button")
+
+
+let p = document.querySelector("p")
+
+function mathfun()
+{
+   
+   if(bt.textContent === 'Cube Root')
+   {
+      p.textContent = Math.cbrt(num);
+	  bt.textContent = "Square Root"
+   
+   }
+   else
+   {
+   p.textContent = Math.sqrt(num);
+    bt.textContent = "Cube Root"
+   }
+}
+bt.addEventListener('click',mathfun)
+
+</script>
+</html>

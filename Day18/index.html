@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="ISO-8859-1">
+    <title>Meta examples</title>
+    
+    <meta name="author" content="Chris Mills">
+    <meta name="description" content="This is an example page to demonstrate usage of metadata on web pages.">
+
+    <meta property="og:image" content="https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png">
+    <meta property="og:description" content="This is an example page to demonstrate usage of metadata on web pages.">
+    <meta property="og:title" content="Metadata; The HTML &lt;head&gt;, on MDN">
+    <link rel="shortcut icon" href="images/Books_icon.png" type="image/x-icon">
+	<link href="styles/style.css" rel="stylesheet">
+	
+  </head>
+  <body>
+    
+   <input type="search" id="search" name="search">
+   <input type="tel">
+      <input type="url">
+	     <input type="number" step="any">
+		 <input type="number" name="age" id="age" min="1" max="10" step="2">
+		 <input type="number" name="change" id="pennies" min="0" max="1" step="0.01">
+		 <label for="price">Choose a maximum house price: </label>
+<input type="range" name="price" id="price" min="50000" max="500000" step="100" value="250000">
+<output class="price-output" for="price"></output>
+   <input type="text"><br><br><br><br>
+   <input type="datetime-local">
+   <input type="time">
+    <input type="color">
+	<div contenteditable="true">
+	<p>dgjsejgsjfhok kjfgkjfopsr kjdgsrtkhpot anuradha</p>
+	</div>
+	<input type="text" id="nam" list="names">
+	<datalist id="names">
+	<option>anu</option>
+	<option>anitha</option>
+	<option>balu</option>
+	<option>chinnu</option>
+	<option>teja</option>
+	</datalist>
+	<progress max="100" value="75">75/100</progress>
+   
+	<script type="text/javascript">
+	const price = document.querySelector('#price');
+const output = document.querySelector('.price-output');
+
+output.textContent = price.value;
+
+price.addEventListener('input', function() {
+  output.textContent = price.value;
+});
+	</script>
+  </body>
+</html>
