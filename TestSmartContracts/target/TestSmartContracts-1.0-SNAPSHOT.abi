@@ -1,4 +1,7 @@
 1
-aion.contracts.Day47
+aion.contracts.BlockchainDemo
 Clinit: ()
-public static int multipleOf10(int)
+public static void setMsg(String)
+public static String getContractCaller()
+public static void setString(String)
+public static void validateDifferenceInRemainingEnergry()

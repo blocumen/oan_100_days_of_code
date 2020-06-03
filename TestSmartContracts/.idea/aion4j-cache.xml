@@ -3,6 +3,11 @@
   <component name="aion4j-cache">
     <option name="methodArgs">
       <map>
+        <entry key="getContractCaller-">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="getStatus-">
           <value>
             <list />
@@ -13,6 +18,18 @@
             <list>
               <option value="5" />
             </list>
+          </value>
+        </entry>
+        <entry key="setString-java.lang.String,">
+          <value>
+            <list>
+              <option value="Harshil" />
+            </list>
+          </value>
+        </entry>
+        <entry key="validateDifferenceInRemainingEnergry-">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
