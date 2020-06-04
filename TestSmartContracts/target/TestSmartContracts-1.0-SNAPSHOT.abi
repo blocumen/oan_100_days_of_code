@@ -1,9 +1,4 @@
 1
-aion.contracts.BlockchainDemo
-Clinit: (String)
-public static void setMsg(String)
-public static String getMyStr()
-public static String getContractCaller()
-public static void setString(String)
-public static void validateDifferenceInRemainingEnergry()
-public static long logTheTopic()
+aion.contracts.Day49
+Clinit: ()
+public static long fetchBlock()

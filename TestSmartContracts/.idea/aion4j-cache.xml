@@ -3,6 +3,11 @@
   <component name="aion4j-cache">
     <option name="methodArgs">
       <map>
+        <entry key="fetchBlock-">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="getContractCaller-">
           <value>
             <list />
@@ -53,7 +58,7 @@
     </option>
     <option name="deployArgs">
       <map>
-        <entry key="TestSmartContracts.args" value="-T 'This is the String'" />
+        <entry key="TestSmartContracts.args" value="" />
         <entry key="TestSmartContracts.dontask" value="false" />
       </map>
     </option>
