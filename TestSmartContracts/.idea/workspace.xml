@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c0ee37c-8cc3-4f0e-8023-9749b796f486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aion/contracts/BlockchainDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aion4j-cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aion4j-cache.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-TestSmartContracts-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-TestSmartContracts-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +53,32 @@
       <option name="presentableId" value="Default" />
       <updated>1591131382379</updated>
     </task>
+    <task id="LOCAL-00001" summary="Blockchain Methods Demo">
+      <created>1591217077492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591217077492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Blockchain Methods Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blockchain Methods Demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1591131575839">
@@ -70,26 +89,30 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591217076714" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1591217060992">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1591223735179">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591217060992" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1591217060991">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591223735179" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1591223735177">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591217060991" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1591217060991">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591223735177" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1591223735176">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591217060991" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1591217060992">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591223735176" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1591223735178">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591217060992" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591223735178" />
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog" timestamp="1591213320572">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1591213320572" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1591284272045">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1591284272045" />
     <state x="380" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591216539944">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
