@@ -45,11 +45,11 @@ public class BlockchainDemo {
     @Callable
     public static void validateDifferenceInRemainingEnergry() {
         long remainingEnergy = Blockchain.getRemainingEnergy();
-        Blockchain.println("Initial Energy" + remainingEnergy);
+        Blockchain.println("Initial Energy " + remainingEnergy);
         int a = 100;
         int b = 20;
         int sum = a + b;
-        Blockchain.println("Remaining Energy"+Blockchain.getRemainingEnergy());
+        Blockchain.println("Remaining Energy "+Blockchain.getRemainingEnergy());
     }
 
 
