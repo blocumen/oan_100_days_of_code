@@ -1,4 +1,5 @@
 1
-aion.contracts.Day49
+aion.contracts.AionListDemo
 Clinit: ()
-public static long fetchBlock()
+public static boolean addAddress(Address)
+public static boolean removeAddress(Address)

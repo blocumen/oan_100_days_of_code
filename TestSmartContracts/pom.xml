@@ -17,7 +17,7 @@
         <!--<avm.lib.dir>${project.basedir}/lib</avm.lib.dir>-->
         <avm.lib.dir>/home/harshil/IdeaProjects/test/lib</avm.lib.dir>
 
-        <contract.main.class>aion.contracts.Day49</contract.main.class>
+        <contract.main.class>aion.contracts.AionListDemo</contract.main.class>
     </properties>
 
     <dependencies>

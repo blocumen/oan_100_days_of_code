@@ -3,6 +3,13 @@
   <component name="aion4j-cache">
     <option name="methodArgs">
       <map>
+        <entry key="addAddress-avm.Address,">
+          <value>
+            <list>
+              <option value="a0da241d264c5849589b92e4e8e9f5a9d939d4e936fb291736e0298f4d2fa202" />
+            </list>
+          </value>
+        </entry>
         <entry key="fetchBlock-">
           <value>
             <list />
@@ -32,6 +39,13 @@
           <value>
             <list>
               <option value="5" />
+            </list>
+          </value>
+        </entry>
+        <entry key="removeAddress-avm.Address,">
+          <value>
+            <list>
+              <option value="a03aa55fece390d2789ae2aed01206b340e70c8007d4098a89457d101b207376" />
             </list>
           </value>
         </entry>

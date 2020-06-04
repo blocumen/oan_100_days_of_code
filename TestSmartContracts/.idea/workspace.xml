@@ -7,6 +7,8 @@
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/original-TestSmartContracts-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-TestSmartContracts-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/storage/.aion4j.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/.aion4j.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/code" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/code" afterDir="false" />
@@ -92,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591293191297</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Assignment to create a deployer address validation">
+      <created>1591293936539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591293936539</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Assignment to create a deployer address validation">
+      <created>1591294061327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591294061328</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,41 +126,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Blockchain Methods Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blockchain Methods Demo" />
+    <MESSAGE value="Assignment to create a deployer address validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment to create a deployer address validation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1591131575839">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1591131575839" />
-    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2" timestamp="1591293935598">
+    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2" timestamp="1591302210651">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591293935598" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1591293851914">
+    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591302210651" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1591302227911">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591293851914" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1591293851913">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591302227911" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1591302227909">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591293851913" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1591293851913">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591302227909" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1591302227908">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591293851913" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1591293851914">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591302227908" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1591302227910">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591293851914" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591302227910" />
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog" timestamp="1591213320572">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1591213320572" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591293951041">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591294071267">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1591293951041" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1591294071267" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1591284272045">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
