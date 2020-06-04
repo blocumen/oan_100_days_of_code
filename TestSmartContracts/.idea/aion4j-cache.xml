@@ -8,7 +8,17 @@
             <list />
           </value>
         </entry>
+        <entry key="getMyStr-">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="getStatus-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="logTheTopic-">
           <value>
             <list />
           </value>
@@ -17,6 +27,13 @@
           <value>
             <list>
               <option value="5" />
+            </list>
+          </value>
+        </entry>
+        <entry key="setMsg-java.lang.String,">
+          <value>
+            <list>
+              <option value="" />
             </list>
           </value>
         </entry>
@@ -36,7 +53,7 @@
     </option>
     <option name="deployArgs">
       <map>
-        <entry key="TestSmartContracts.args" value="" />
+        <entry key="TestSmartContracts.args" value="-T 'This is the String'" />
         <entry key="TestSmartContracts.dontask" value="false" />
       </map>
     </option>

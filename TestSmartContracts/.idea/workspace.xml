@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c0ee37c-8cc3-4f0e-8023-9749b796f486" name="Default Changelist" comment="" />
+    <list default="true" id="4c0ee37c-8cc3-4f0e-8023-9749b796f486" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aion4j-cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aion4j-cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aion/contracts/BlockchainDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aion/contracts/BlockchainDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-TestSmartContracts-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-TestSmartContracts-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/.aion4j.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/.aion4j.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/code" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/graph" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/transformed_code" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/transformed_code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e/balance" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e/balance" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591217077492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Blockchain Methods Demo">
+      <created>1591291964993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591291964993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Blockchain Methods Demo">
+      <created>1591292177569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591292177569</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,30 +109,34 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1591131575839" />
-    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2" timestamp="1591291964294">
+    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2" timestamp="1591292176092">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591291964294" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1591292090456">
+    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591292176092" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1591292958611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591292090456" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1591292090456">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591292958611" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1591292958610">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591292090456" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1591292090455">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591292958610" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1591292958610">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591292090455" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1591292090456">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591292958610" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1591292958611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591292090456" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591292958611" />
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog" timestamp="1591213320572">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1591213320572" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591292222001">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1591292222001" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1591284272045">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

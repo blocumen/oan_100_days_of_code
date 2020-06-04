@@ -4,15 +4,22 @@ package aion.contracts;
 import avm.Address;
 import avm.Blockchain;
 import org.aion.avm.tooling.abi.Callable;
+import org.aion.avm.tooling.abi.Initializable;
 
 public class BlockchainDemo {
     // Blockchain print statement
+    @Initializable
     private static String myStr;
 
     @Callable
     public static void setMsg(String name) {
         myStr =name;
         Blockchain.println("Good Morning " + myStr);
+    }
+
+    @Callable
+    public static String getMyStr(){
+        return myStr;
     }
 
     //caller() method
@@ -52,5 +59,12 @@ public class BlockchainDemo {
         Blockchain.println("Remaining Energy "+Blockchain.getRemainingEnergy());
     }
 
+    //Blockchain.log() and getBlockNumber()
+    @Callable
+    public static long logTheTopic(){
+        String s1= "String 1";
+        Blockchain.log(s1.getBytes());
+        return Blockchain.getBlockNumber();
+    }
 
 }
