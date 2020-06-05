@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="addCar-java.lang.String,">
+          <value>
+            <list>
+              <option value="Venzo" />
+            </list>
+          </value>
+        </entry>
+        <entry key="addCar2-java.lang.String,">
+          <value>
+            <list>
+              <option value="Bugatti" />
+            </list>
+          </value>
+        </entry>
+        <entry key="clearCarSet-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getMsg-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getMyInt-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getStr-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getString-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="setMsg-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="setMsg-java.lang.String,">
+          <value>
+            <list>
+              <option value="ko" />
+            </list>
+          </value>
+        </entry>
+        <entry key="setMyInt-int,">
+          <value>
+            <list>
+              <option value="10" />
+            </list>
+          </value>
+        </entry>
+        <entry key="setStr-java.lang.String,">
+          <value>
+            <list>
+              <option value="Welcome new" />
+            </list>
+          </value>
+        </entry>
+        <entry key="setString-java.lang.String,">
+          <value>
+            <list>
+              <option value="Hello AVM" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="AAion.args" value="" />
+        <entry key="AAion.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

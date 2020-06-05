@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26a37e9b-90d4-435e-858b-518dd8412285" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../Program Files/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cU0qnmyvtZinerw1MlPrG4JsIs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.GetSetRuleTest">
+    <configuration name="GetSetRuleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AAion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.GetSetRuleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetSetRuleTest.testGetString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AAion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.GetSetRuleTest" />
+      <option name="METHOD_NAME" value="testGetString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetSetRuleTest.testGetString1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AAion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.GetSetRuleTest" />
+      <option name="METHOD_NAME" value="testGetString1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetSetRuleTest.testSetString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AAion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.GetSetRuleTest" />
+      <option name="METHOD_NAME" value="testSetString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloAvmRuleTest.testSetString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AAion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.HelloAvmRuleTest" />
+      <option name="METHOD_NAME" value="testSetString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GetSetRuleTest" />
+        <item itemvalue="JUnit.GetSetRuleTest.testSetString" />
+        <item itemvalue="JUnit.GetSetRuleTest.testGetString" />
+        <item itemvalue="JUnit.GetSetRuleTest.testGetString1" />
+        <item itemvalue="JUnit.HelloAvmRuleTest.testSetString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26a37e9b-90d4-435e-858b-518dd8412285" name="Default Changelist" comment="" />
+      <created>1590568057224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590568057224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591381427091">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591381427091" />
+    <state x="320" y="105" key="FileChooserDialogImpl" timestamp="1590568142449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="320" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590568142449" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1591388136683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591388136683" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1591388136683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591388136683" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1591388136683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591388136683" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1591388136683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591388136683" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1590579477606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590579477606" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1590579477606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590579477606" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1590579477606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590579477606" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1590579477606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590579477606" />
+    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1591382408645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1591382408645" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1590570662256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590570662256" />
+    <state x="387" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590570036392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1590570036392" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591382533393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591382533393" />
+  </component>
+</project>
