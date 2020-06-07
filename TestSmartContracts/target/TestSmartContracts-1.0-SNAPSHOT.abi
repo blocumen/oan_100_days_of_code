@@ -1,5 +1,5 @@
 1
-aion.contracts.AionListDemo
+aion.contracts.AionMapDemo
 Clinit: ()
-public static boolean addAddress(Address)
-public static boolean removeAddress(Address)
+public static boolean AssignToken(Address, int)
+public static int getToken(Address)

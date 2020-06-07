@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4c0ee37c-8cc3-4f0e-8023-9749b796f486" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/aion4j-cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aion4j-cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aion4jJclwhitelist.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aion4jJclwhitelist.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/avmJclwhitelist.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/avmJclwhitelist.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" afterDir="false" />
@@ -108,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591294061328</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Assignment to create a deployer address validation">
+      <created>1591302242171</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591302242171</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Assignment to create a deployer address validation---Final version">
+      <created>1591553971368</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591553971384</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,45 +143,50 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Blockchain Methods Demo" />
     <MESSAGE value="Assignment to create a deployer address validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment to create a deployer address validation" />
+    <MESSAGE value="Assignment to create a deployer address validation---Final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment to create a deployer address validation---Final version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1591131575839">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1591131575839" />
-    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2" timestamp="1591302210651">
+    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2" timestamp="1591555765365">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591302210651" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1591302227911">
+    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591555765365" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1591555653791">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591302227911" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1591302227909">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591555653791" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1591555653790">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591302227909" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1591302227908">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591555653790" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1591555653789">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591302227908" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1591302227910">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591555653789" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1591555653791">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591302227910" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591555653791" />
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog" timestamp="1591213320572">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1591213320572" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591294071267">
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1591302439843">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1591294071267" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1591284272045">
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1591302439843" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591553988354">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1591284272045" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1591553988354" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1591521543352">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1591521543352" />
     <state x="380" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591216539944">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
