@@ -2,11 +2,17 @@
 package aion.contracts;
 
 import avm.Address;
+import avm.Blockchain;
 import org.aion.avm.tooling.abi.Callable;
 import org.aion.avm.userlib.AionList;
+import org.aion.avm.userlib.AionList.AionListIterator;
+
+import java.util.ListIterator;
 
 public class AionListDemo {
     private static AionList<Address> contractAddressList = new AionList<>();
+    private static ListIterator<Address> addressIterator = contractAddressList.listIterator();
+
 
     //function to add a particular address
     @Callable
@@ -30,12 +36,15 @@ public class AionListDemo {
         }
     }
 
-//    @Callable
-//    public static void listIterator(){
-//        AionList.AionListIterator = contractAddressList.listIterator();
-//
-//    }
+  @Callable
+    public static void displayList(){
+        while (addressIterator.hasNext()){
+            Blockchain.println("This is th address contained in the List:");
+            Blockchain.println("Address : "+addressIterator.next().toString());
+        }
+  }
 }
+
 
 //
 // a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e	..
