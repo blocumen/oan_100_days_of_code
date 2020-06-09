@@ -1,5 +1,5 @@
 1
-aion.contracts.AionMapDemo
+aion.contracts.Car
 Clinit: ()
-public static boolean AssignToken(Address, int)
-public static int getToken(Address)
+public static void addCar(String, String, String)
+public static String carToFrontend(int)

@@ -18,6 +18,22 @@
             </list>
           </value>
         </entry>
+        <entry key="addCar-java.lang.String,java.lang.String,java.lang.String,">
+          <value>
+            <list>
+              <option value="2019" />
+              <option value="Ford" />
+              <option value="Grey" />
+            </list>
+          </value>
+        </entry>
+        <entry key="carToFrontend-int,">
+          <value>
+            <list>
+              <option value="1" />
+            </list>
+          </value>
+        </entry>
         <entry key="fetchBlock-">
           <value>
             <list />
