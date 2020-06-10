@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="addCar-java.lang.String,">
+          <value>
+            <list>
+              <option value="Benz" />
+            </list>
+          </value>
+        </entry>
+        <entry key="carListIsEmpty-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="checkCar-java.lang.String,">
+          <value>
+            <list>
+              <option value="Ben" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Day50.args" value="" />
+        <entry key="Day50.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

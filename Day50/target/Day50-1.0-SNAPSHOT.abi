@@ -1,0 +1,12 @@
+1
+org.example.HelloAvm
+Clinit: ()
+public static void addCar(String)
+public static void removeCar(String)
+public static void clearCarSet()
+public static boolean checkCar(String)
+public static boolean carListIsEmpty()
+public static void sayHello()
+public static String greet(String)
+public static String getString()
+public static void setString(String)
