@@ -1,0 +1,5 @@
+1
+org.example.InitializableEx
+Clinit: (String, byte)
+public static String getStatus()
+public static byte getByte()

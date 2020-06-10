@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="getByte-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getInt-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getStatus-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getStr-">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Day48.args" value="-T localSystem -B 11" />
+        <entry key="Day48.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>
