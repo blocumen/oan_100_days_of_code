@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="assignToken-avm.Address,int,">
+          <value>
+            <list>
+              <option value="a019993848f7523d4b44e8617cf4c9070b77bb79801349781838ada795562bd1" />
+              <option value="9" />
+            </list>
+          </value>
+        </entry>
+        <entry key="getBlances-avm.Address,">
+          <value>
+            <list>
+              <option value="a019993848f7523d4b44e8617cf4c9070b77bb79801349781838ada795562bd1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="listcount-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="removefromlist-avm.Address,">
+          <value>
+            <list>
+              <option value="a06dcec526e3b1e5f92b13b9c081507585aed11399def2348694aec54d0e2c83" />
+            </list>
+          </value>
+        </entry>
+        <entry key="setListOfAddress-avm.Address,">
+          <value>
+            <list>
+              <option value="a098101e8b6e60501bdc795b0972b9fcf47ea90650cf6a32975cb61f2f0d3532" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Day52.args" value="" />
+        <entry key="Day52.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>
