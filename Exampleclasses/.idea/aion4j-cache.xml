@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="differenceInenergy-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getString-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="setString-java.lang.String,">
+          <value>
+            <list>
+              <option value="dhanush" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Exampleclasses.args" value="" />
+        <entry key="Exampleclasses.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection>
+        <option value="0xa019993848f7523d4b44e8617cf4c9070b77bb79801349781838ada795562bd1" />
+      </collection>
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

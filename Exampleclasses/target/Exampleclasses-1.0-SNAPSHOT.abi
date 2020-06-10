@@ -1,0 +1,6 @@
+1
+org.example.ClassBlockchain
+Clinit: ()
+public static String getString()
+public static void setString(String)
+public static void differenceInenergy()
