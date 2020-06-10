@@ -1,0 +1,5 @@
+1
+org.example.Car
+Clinit: ()
+public static void addCar(String, String, String)
+public static String carToFrontend(int)
