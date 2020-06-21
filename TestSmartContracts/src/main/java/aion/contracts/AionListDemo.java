@@ -5,7 +5,6 @@ import avm.Address;
 import avm.Blockchain;
 import org.aion.avm.tooling.abi.Callable;
 import org.aion.avm.userlib.AionList;
-import org.aion.avm.userlib.AionList.AionListIterator;
 
 import java.util.ListIterator;
 
@@ -38,6 +37,7 @@ public class AionListDemo {
 
   @Callable
     public static void displayList(){
+        String topic = "Address:";
         while (addressIterator.hasNext()){
             Blockchain.println("This is th address contained in the List:");
             Blockchain.println("Address : "+addressIterator.next().toString());

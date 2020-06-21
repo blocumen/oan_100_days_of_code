@@ -1,6 +1,7 @@
 package aion.contracts;
 
 import avm.Address;
+import avm.Blockchain;
 import org.aion.avm.embed.AvmRule;
 import org.aion.avm.tooling.ABIUtil;
 import org.aion.types.TransactionStatus;
@@ -23,7 +24,7 @@ public class HelloAvmRuleTest {
     @BeforeClass
     public static void deployDapp() {
         //deploy Dapp:
-        // 1- get the Dapp byes to be used for the deploy transaction
+        // 1- get the Dapp bytes to be used for the deploy transaction
         // 2- deploy the Dapp and get the address.
         byte[] dapp = avmRule.getDappBytes(aion.contracts.HelloAvm.class, null);
         dappAddr = avmRule.deploy(from, BigInteger.ZERO, dapp).getDappAddress();
@@ -40,6 +41,7 @@ public class HelloAvmRuleTest {
         // getReceiptStatus() checks the status of the transaction execution
         TransactionStatus status = result.getReceiptStatus();
         Assert.assertTrue(status.isSuccess());
+        Blockchain.println(from.toString());
     }
 
     @Test

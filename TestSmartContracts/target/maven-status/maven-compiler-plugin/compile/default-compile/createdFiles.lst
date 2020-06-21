@@ -5,4 +5,5 @@ aion/contracts/AionListDemo.class
 aion/contracts/Day49.class
 aion/contracts/AionMapDemo.class
 aion/contracts/BlockchainDemo.class
+aion/contracts/SimpleOwnable.class
 aion/contracts/HelloAvm.class

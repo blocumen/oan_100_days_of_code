@@ -1,5 +1,6 @@
 1
-aion.contracts.Car
+aion.contracts.AionListDemo
 Clinit: ()
-public static void addCar(String, String, String)
-public static String carToFrontend(int)
+public static boolean addAddress(Address)
+public static boolean removeAddress(Address)
+public static void displayList()

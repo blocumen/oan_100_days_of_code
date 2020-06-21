@@ -14,10 +14,10 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
 
         <aion4j.plugin.version>1.0.0</aion4j.plugin.version>
-        <!--<avm.lib.dir>${project.basedir}/lib</avm.lib.dir>-->
-        <avm.lib.dir>/home/harshil/IdeaProjects/test/lib</avm.lib.dir>
+        <avm.lib.dir>${project.basedir}/lib</avm.lib.dir>
+        <!--<avm.lib.dir>/home/harshil/IdeaProjects/test/lib</avm.lib.dir>-->
 
-        <contract.main.class>aion.contracts.Car</contract.main.class>
+        <contract.main.class>aion.contracts.AionListDemo</contract.main.class>
     </properties>
 
     <dependencies>

@@ -11,6 +11,11 @@
             </list>
           </value>
         </entry>
+        <entry key="acceptOwnership-">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="addAddress-avm.Address,">
           <value>
             <list>
@@ -34,6 +39,11 @@
             </list>
           </value>
         </entry>
+        <entry key="displayList-">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="fetchBlock-">
           <value>
             <list />
@@ -45,6 +55,11 @@
           </value>
         </entry>
         <entry key="getMyStr-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getOwnerAddress-">
           <value>
             <list />
           </value>
@@ -99,6 +114,13 @@
             </list>
           </value>
         </entry>
+        <entry key="transferOwnership-avm.Address,">
+          <value>
+            <list>
+              <option value="a03aa55fece390d2789ae2aed01206b340e70c8007d4098a89457d101b207376" />
+            </list>
+          </value>
+        </entry>
         <entry key="validateDifferenceInRemainingEnergry-">
           <value>
             <list />
@@ -113,7 +135,10 @@
       </map>
     </option>
     <option name="localContractAddresses">
-      <collection />
+      <collection>
+        <option value="a03aa55fece390d2789ae2aed01206b340e70c8007d4098a89457d101b207376" />
+        <option value="a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e" />
+      </collection>
     </option>
     <option name="remoteContractAddresses">
       <collection />
