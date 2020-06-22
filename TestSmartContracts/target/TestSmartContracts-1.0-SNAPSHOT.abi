@@ -1,6 +1,5 @@
 1
-aion.contracts.AionListDemo
+aion.contracts.Day63
 Clinit: ()
-public static boolean addAddress(Address)
-public static boolean removeAddress(Address)
-public static void displayList()
+public static int getDeployedInteger()
+public static String getDeployedString()
