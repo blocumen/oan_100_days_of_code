@@ -42,6 +42,24 @@
             </list>
           </value>
         </entry>
+        <entry key="addCarStock-java.lang.String,int,">
+          <value>
+            <list>
+              <option value="Ford" />
+              <option value="5" />
+            </list>
+          </value>
+        </entry>
+        <entry key="addPurchaseInfo-long,java.lang.String,java.lang.String,int,">
+          <value>
+            <list>
+              <option value="01" />
+              <option value="1" />
+              <option value="123" />
+              <option value="3000" />
+            </list>
+          </value>
+        </entry>
         <entry key="carToFrontend-int,">
           <value>
             <list>
@@ -82,6 +100,13 @@
         <entry key="getMyStr-">
           <value>
             <list />
+          </value>
+        </entry>
+        <entry key="getOrderInformation-long,">
+          <value>
+            <list>
+              <option value="01" />
+            </list>
           </value>
         </entry>
         <entry key="getOwnerAddress-">
@@ -155,7 +180,7 @@
     </option>
     <option name="deployArgs">
       <map>
-        <entry key="TestSmartContracts.args" value="-I 5 -T Harshil" />
+        <entry key="TestSmartContracts.args" value="" />
         <entry key="TestSmartContracts.dontask" value="false" />
       </map>
     </option>

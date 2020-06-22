@@ -17,7 +17,7 @@
         <avm.lib.dir>${project.basedir}/lib</avm.lib.dir>
         <!--<avm.lib.dir>/home/harshil/IdeaProjects/test/lib</avm.lib.dir>-->
 
-        <contract.main.class>aion.contracts.Day63</contract.main.class>
+        <contract.main.class>aion.contracts.HybridStorage</contract.main.class>
     </properties>
 
     <dependencies>
