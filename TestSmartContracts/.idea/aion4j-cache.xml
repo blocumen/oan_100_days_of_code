@@ -82,6 +82,11 @@
             <list />
           </value>
         </entry>
+        <entry key="getCallerAddress-">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="getContractCaller-">
           <value>
             <list />
@@ -180,7 +185,7 @@
     </option>
     <option name="deployArgs">
       <map>
-        <entry key="TestSmartContracts.args" value="" />
+        <entry key="TestSmartContracts.args" value="-A 0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194" />
         <entry key="TestSmartContracts.dontask" value="false" />
       </map>
     </option>

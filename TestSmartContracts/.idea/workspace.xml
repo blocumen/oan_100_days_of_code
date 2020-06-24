@@ -2,20 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c0ee37c-8cc3-4f0e-8023-9749b796f486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aion/contracts/BufferExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aion/contracts/HybridStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/aion4j-cache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/aion4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/aion4jJclwhitelist.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/avmJclwhitelist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/ContractCall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/.aion4j.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b1ca5abeb0a28f1323640f6d2d0ca71c3b0b0cdf5cef4ad5eab12a91d9c24f2/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b1ca5abeb0a28f1323640f6d2d0ca71c3b0b0cdf5cef4ad5eab12a91d9c24f2/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b1ca5abeb0a28f1323640f6d2d0ca71c3b0b0cdf5cef4ad5eab12a91d9c24f2/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b1ca5abeb0a28f1323640f6d2d0ca71c3b0b0cdf5cef4ad5eab12a91d9c24f2/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7c5b8d0adec22c9033b47505f0a829e928bca7e6a4b30e406d45c1520352e5/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7c5b8d0adec22c9033b47505f0a829e928bca7e6a4b30e406d45c1520352e5/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7c5b8d0adec22c9033b47505f0a829e928bca7e6a4b30e406d45c1520352e5/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7c5b8d0adec22c9033b47505f0a829e928bca7e6a4b30e406d45c1520352e5/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7c8a9d0055a4794679ba1b34cfb90f53aa5f04614ddc35793edfa65577d50a/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7c8a9d0055a4794679ba1b34cfb90f53aa5f04614ddc35793edfa65577d50a/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7c8a9d0055a4794679ba1b34cfb90f53aa5f04614ddc35793edfa65577d50a/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7c8a9d0055a4794679ba1b34cfb90f53aa5f04614ddc35793edfa65577d50a/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7d80e91363ad58b04a1649ebe4bc0cfdfbbe41cc098cfdf4ed4d1d3ea6d680/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7d80e91363ad58b04a1649ebe4bc0cfdfbbe41cc098cfdf4ed4d1d3ea6d680/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7d80e91363ad58b04a1649ebe4bc0cfdfbbe41cc098cfdf4ed4d1d3ea6d680/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b7d80e91363ad58b04a1649ebe4bc0cfdfbbe41cc098cfdf4ed4d1d3ea6d680/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b88564e37c6e53494951918b73b9f379dc376ce7468d0e8c035ccaba3f50090/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b88564e37c6e53494951918b73b9f379dc376ce7468d0e8c035ccaba3f50090/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b88564e37c6e53494951918b73b9f379dc376ce7468d0e8c035ccaba3f50090/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b88564e37c6e53494951918b73b9f379dc376ce7468d0e8c035ccaba3f50090/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b955d6e63952ab1adb9dd22ad11d7ece6f84e842333c8babe9404dbb3b6cc1e/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b955d6e63952ab1adb9dd22ad11d7ece6f84e842333c8babe9404dbb3b6cc1e/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b955d6e63952ab1adb9dd22ad11d7ece6f84e842333c8babe9404dbb3b6cc1e/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b955d6e63952ab1adb9dd22ad11d7ece6f84e842333c8babe9404dbb3b6cc1e/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b9f709961ecf2f93a86b60d21610116b76570379d6bed790f265e54da9e0499/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b9f709961ecf2f93a86b60d21610116b76570379d6bed790f265e54da9e0499/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b9f709961ecf2f93a86b60d21610116b76570379d6bed790f265e54da9e0499/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b9f709961ecf2f93a86b60d21610116b76570379d6bed790f265e54da9e0499/nonce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0b9f709961ecf2f93a86b60d21610116b76570379d6bed790f265e54da9e0499/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0ba3b75af1fa99cb67110d072622e19067da375f070ffb3028bce290a94a9f7e/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0ba3b75af1fa99cb67110d072622e19067da375f070ffb3028bce290a94a9f7e/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0ba3b75af1fa99cb67110d072622e19067da375f070ffb3028bce290a94a9f7e/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0ba3b75af1fa99cb67110d072622e19067da375f070ffb3028bce290a94a9f7e/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0bdeb0d1342845203e9a4e4ee860ed64171b9a888094db841f9511fc5f316032/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0bdeb0d1342845203e9a4e4ee860ed64171b9a888094db841f9511fc5f316032/code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0bdeb0d1342845203e9a4e4ee860ed64171b9a888094db841f9511fc5f316032/graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_0bdeb0d1342845203e9a4e4ee860ed64171b9a888094db841f9511fc5f316032/transformed_code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_1470accaa081d1096cf92d885010794db967f6aac53256876cecde29b983745f/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_31ddd081b7e42070d996998f14b1f653c031aa6b1b41f72b2b0c10661778cb26/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_3c26ff328ffe10c74a047fe5a6e59f884fa87211977325ee697785316df44d86/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_3d192a5bc3ea757f1a4aa3185a291cb202c3884d764c657af2cde7c6b6e2ee7a/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_42212644842f9115dd06633d22b67af6e58c7f8bef97c97ee0696750b215bd9b/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_4ca27b951bd69112ad329c0eccf89dcfbe54d596842f74dbf1066443cec160f2/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_6c331b6f9b32ee6fbac302a12b3365041739e2815935fc1079868fc36a6f9194/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_6e39db6571c31cc5a60fe08653fff594c1e3ea0b0ab39772d993f2b89eef0517/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_7c5325dd160a60d2712b93eb10728bfcc463b3a5b8b87b8901255d5b1aa5fdbb/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_7d651d5a1523ccb358babf85e3794a88d12fca2f424c04604de430515ee1d16b/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_89a4796759b7b1de159cbf3b8c2dd16397a97ed8f46fe4437465bc171e538a5e/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_8eb14d7b962f63b24af52ed96e570523dc4073a762d6672c9dbe0ee730222e8b/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_8ffc8ffa754f3e7294e92663fd90ac03799e21291731ef6ea3d6c93463304f12/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_a025f4fd54064e869f158c1b4eb0ed34820f67e60ee80a53b469f725efc06378/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/nonce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_bd615b7f0fcf93495da844720b506409fbd1fe9bb4e9d717004610d46930e9c8/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_de6d1ef3db8c9b6cad73d469edb341c5be37e30056845fe1fa2a41867cf6c55e/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_e207c206aa48346d2b13aaeee35b6fa7c1f00e7566b113b2020258226c0a0c78/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_e40e6f8a0253f460ca67820d73600322a9eb959cc624f54b377237e057cffa91/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_e695db362314a9bfe364b3459eba991c6d3c9a421decaedd7f22b6a972f13bad/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_ec3604ff031bd998c0db72ff58bb289e78960b0a53702998421be2e09a9a175a/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_ef8e991b1c6c9512207223f208b49c75dbe37a01966671aa6149f2612f3a8879/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/avm_storage/account_ffcffc0422a3f02a0f60838e3b98fed362ff27ad4ffbd017e3c3aaef0257bc5a/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/lib/avm.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/lib/org-aion-avm-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/lib/org-aion-avm-tooling.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/lib/org-aion-avm-userlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/lib/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/src/main/java/aion/contract/CallerAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/src/main/java/aion/contract/HelloAvm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/src/main/java/aion/contract/OwnerAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/src/test/java/aion/contract/HelloAvmRuleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/ContractCall-1.0-SNAPSHOT.abi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/ContractCall-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/aion/contract/CallerAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/aion/contract/HelloAvm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/aion/contract/OwnerAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionList$AionListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionList$AionSubList$AionSubListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionList$AionSubList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$AionAbstractCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$AionMapEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$EntryIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$EntrySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$HashIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$KeyIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$KeySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$ValueIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap$Values.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/AionUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/CodeAndArguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/abi/ABIDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/abi/ABIEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/abi/ABIException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/abi/ABIStreamingEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/classes/org/aion/avm/userlib/abi/ABIToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/original-ContractCall-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContractCall/target/test-classes/aion/contract/HelloAvmRuleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/aion4j-cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aion4j-cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aion4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aion4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aion4jJclwhitelist.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aion4jJclwhitelist.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/avmJclwhitelist.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/avmJclwhitelist.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.abi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestSmartContracts-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/original-TestSmartContracts-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-TestSmartContracts-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/.aion4j.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/.aion4j.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/code" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/code" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/graph" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/graph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/transformed_code" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/transformed_code" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e/balance" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e/balance" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e/nonce" beforeDir="false" afterPath="$PROJECT_DIR$/target/storage/account_a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e/nonce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/.aion4j.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/balance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/code" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/graph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_0b43613dd9eb89f5bbc8dc42aa3bbaaa5b10162d631b975e01384dc3083b0df9/transformed_code" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e/balance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_a0b296a3a88d693ef735407cbc2fd29a50b8ff2cb1432a11a3668eb1e366080e/nonce" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592864420222</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="AionBuffer and Hybrid Storage">
+      <created>1592864929694</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592864929694</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,53 +408,58 @@
     <MESSAGE value="Assignment to create a mapping of Cars" />
     <MESSAGE value="Assignment to create a test cases for 3 methods" />
     <MESSAGE value="Assignment to use ABIDecoder for a string and integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment to use ABIDecoder for a string and integer" />
+    <MESSAGE value="AionBuffer and Hybrid Storage" />
+    <option name="LAST_COMMIT_MESSAGE" value="AionBuffer and Hybrid Storage" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Inspections" timestamp="1592939707752">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Inspections/67.27.1299.741@67.27.1299.741" timestamp="1592939707752" />
     <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1591131575839">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1591131575839" />
-    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2" timestamp="1592864418968">
+    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2" timestamp="1592864929286">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1592864418968" />
+    <state x="310" y="27" width="802" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1592864929286" />
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592741570210">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1592741570210" />
-    <state width="1253" height="163" key="GridCell.Tab.0.bottom" timestamp="1592864783051">
+    <state width="1253" height="220" key="GridCell.Tab.0.bottom" timestamp="1593018483877">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="163" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1592864783051" />
-    <state width="1253" height="163" key="GridCell.Tab.0.center" timestamp="1592864783050">
+    <state width="1253" height="220" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1593018483877" />
+    <state width="1253" height="220" key="GridCell.Tab.0.center" timestamp="1593018483874">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="163" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1592864783050" />
-    <state width="1253" height="163" key="GridCell.Tab.0.left" timestamp="1592864783049">
+    <state width="1253" height="220" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1593018483874" />
+    <state width="1253" height="220" key="GridCell.Tab.0.left" timestamp="1593018483872">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="163" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1592864783049" />
-    <state width="1253" height="163" key="GridCell.Tab.0.right" timestamp="1592864783051">
+    <state width="1253" height="220" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1593018483872" />
+    <state width="1253" height="220" key="GridCell.Tab.0.right" timestamp="1593018483875">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="163" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1592864783051" />
-    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1592769476571">
+    <state width="1253" height="220" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1593018483875" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1592943293302">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1592769476571" />
-    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1592769476570">
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1592943293302" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1592943293301">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1592769476570" />
-    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1592769476570">
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1592943293301" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1592943293300">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1592769476570" />
-    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1592769476570">
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1592943293300" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1592943293302">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1592769476570" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1592943293302" />
     <state x="292" y="133" width="838" height="526" key="IDE.errors.dialog" timestamp="1591213320572">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -323,14 +468,14 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1592510110381" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1592864437884">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1592864946917">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1592864437884" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1592849935336">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1592864946917" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1593012844527">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1592849935336" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1593012844527" />
     <state x="380" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591216539944">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -343,10 +488,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="210" y="115" width="1003" height="562" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1299.741@67.27.1299.741" timestamp="1592600455610" />
-    <state x="67" y="87" width="1289" height="618" key="new project wizard" timestamp="1592061615346">
+    <state x="67" y="87" width="1289" height="618" key="new project wizard" timestamp="1593018703008">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="67" y="87" width="1289" height="618" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1592061615346" />
+    <state x="67" y="87" width="1289" height="618" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1593018703008" />
     <state x="412" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1592599481351">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -359,6 +504,31 @@
           <url>file://$PROJECT_DIR$/src/test/java/aion/contracts/HelloAvmRuleTest.java</url>
           <line>43</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aion/contracts/CallerAddress.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aion/contracts/CallerAddress.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aion/contracts/CallerAddress.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aion/contracts/CallerAddress.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aion/contracts/CallerAddress.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

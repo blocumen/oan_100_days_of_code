@@ -1,9 +1,5 @@
 1
-aion.contracts.HybridStorage
+aion.contracts.CallerAddress
 Clinit: ()
-public static void addCarStock(String, int)
-public static void updateCarStock(String, int)
-public static void removeCarMake(String)
-public static int getCarStock(String, String)
-public static void addPurchaseInfo(long, String, String, int)
-public static String getOrderInformation(long)
+public static Address getCallerAddress()
+public static int incrementCount()
