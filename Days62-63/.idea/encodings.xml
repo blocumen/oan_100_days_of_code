@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/aion/AVM-API/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aion/ContractToContractCall/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aion/HybridStorage1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aion/aion/src/main/java" charset="UTF-8" />
   </component>
 </project>

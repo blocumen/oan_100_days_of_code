@@ -1,0 +1,9 @@
+1
+org.example.HybridStorage
+Clinit: ()
+public static void addCarStock(String, int)
+public static void updateCarStock(String, int)
+public static void removeCarMake(String)
+public static int getCarStock(String, String)
+public static void addPurchaseInfo(long, String, String, int)
+public static String getOrderInformation(long)

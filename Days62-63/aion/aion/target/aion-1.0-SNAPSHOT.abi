@@ -1,0 +1,5 @@
+1
+aion.BufferExample
+Clinit: ()
+public static void addBuyerInfo(Address, String, String, int)
+public static String getBuyerInfo()
