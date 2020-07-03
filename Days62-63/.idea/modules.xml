@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aion/AVM-API/AVM-API.iml" filepath="$PROJECT_DIR$/aion/AVM-API/AVM-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aion/ContractToContractCall/ContractToContractCall.iml" filepath="$PROJECT_DIR$/aion/ContractToContractCall/ContractToContractCall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Days62-63.iml" filepath="$PROJECT_DIR$/.idea/Days62-63.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aion/HybridStorage/HybridStorage.iml" filepath="$PROJECT_DIR$/aion/HybridStorage/HybridStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aion/HybridStorage1/HybridStorage1.iml" filepath="$PROJECT_DIR$/aion/HybridStorage1/HybridStorage1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aion/aion/aion.iml" filepath="$PROJECT_DIR$/aion/aion/aion.iml" />
+    </modules>
+  </component>
+</project>
