@@ -37,18 +37,6 @@ public class Day61
     }
 
     @Callable
-    public static void AssignTokens(int number) {
-
-        if (addressMap.containsKey(number) == true ) {
-            //revert
-            Blockchain.println("Doing Nothing "+addressMap.size());
-        } else {
-            addressMap.put (number, new Address(new byte[32]));
-            Blockchain.println("Insert new pair "+addressMap.size());
-        }
-    }
-
-    @Callable
     public static void AssignTokens(int number, String str) {
 
         Blockchain.println("Print number "+number);
