@@ -1,0 +1,4 @@
+1
+org.example.HelloAvm
+Clinit: ()
+public static String greet(String)

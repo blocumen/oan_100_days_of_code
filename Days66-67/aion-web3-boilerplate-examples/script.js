@@ -1,0 +1,1 @@
+const web3 = new Web3(new Web3.providers.HttpProvider("ENTER_YOUR_NODE_URL_HERE"));
